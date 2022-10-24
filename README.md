@@ -6,6 +6,8 @@ My name is Blake Bollinger, and I am a Computer Science and Mathematics Dual Maj
 
 ---
 
+<br />
+
 ### Skills 📝
 
 Here are some technologies I have worked with...
@@ -19,6 +21,8 @@ Here are some technologies I have worked with...
 <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="React" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<br />
+<br />
 <img align="left" alt="AWS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -31,9 +35,11 @@ Here are some technologies I have worked with...
 
 <br />
 <br />
+<br />
 
 ---  
 
+<br />
 ### Personal Projects 💻
 
 I am constantly working on personal projects with everything from creating neural networks to building electric bikes. So, I set up a website to show off all of my projects, give links to my code, and to help people learn. Click these links to check out some of my top projects:
