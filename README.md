@@ -4,6 +4,8 @@
 
 My name is Blake Bollinger, and I am a Computer Science and Mathematics Dual Major at Louisiana State University. I taught myself to program in Swift at the age of 13, and ever since then, I have had a fascination with computers and what makes them tick.
 
+---
+
 ### Skills 📝
 Here are some technologies I have worked with...
 
@@ -26,6 +28,8 @@ Here are some technologies I have worked with...
 <img align="left" alt="MatLab" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Ubuntu" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <br/>
+
+---
 
 ### Personal Projects 💻
 I am constantly working on personal projects with everything from creating neural networks to building electric bikes. So, I set up a website to show off all of my projects, give links to my code, and to help people learn. Click these links to check out some of my top projects:
