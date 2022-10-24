@@ -6,8 +6,6 @@ My name is Blake Bollinger, and I am a Computer Science and Mathematics Dual Maj
 
 ---
 
-<br />
-
 ### Skills 📝
 
 Here are some technologies I have worked with...
@@ -35,11 +33,9 @@ Here are some technologies I have worked with...
 
 <br />
 <br />
-<br />
 
 ---  
 
-<br />
 ### Personal Projects 💻
 
 I am constantly working on personal projects with everything from creating neural networks to building electric bikes. So, I set up a website to show off all of my projects, give links to my code, and to help people learn. Click these links to check out some of my top projects:
