@@ -1,6 +1,9 @@
 ## Hello
 
-### About me 👨‍💻
+### About me 👨‍💻 
+<a href="https://www.linkedin.com/in/blake-bollinger/">
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 My name is Blake Bollinger, and I am a Computer Science and Mathematics Dual Major at Louisiana State University. I taught myself to program in Swift at the age of 13, and ever since then, I have had a fascination with computers and what makes them tick.
 
@@ -34,6 +37,8 @@ Here are some technologies I have worked with...
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakebollinger&layout=compact&exclude_repo=AR-EyeTracking,SnakeAI-Swift&langs_count=8)
+
 ---  
 
 ### Personal Projects 💻
@@ -46,5 +51,6 @@ I am constantly working on personal projects with everything from creating neura
 - Also feel free to check out my resumé by clicking below.
 
 [My Resume](https://blakebollinger.dev/wp-content/uploads/2022/10/Blake-Bollinger-Resume.pdf)
+
 
 🏄‍♂️
