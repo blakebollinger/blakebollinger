@@ -1,4 +1,4 @@
-## Hello!
+## Hello
 
 ### About me 👨‍💻
 
@@ -7,6 +7,7 @@ My name is Blake Bollinger, and I am a Computer Science and Mathematics Dual Maj
 ---
 
 ### Skills 📝
+
 Here are some technologies I have worked with...
 
 <img align="left" alt="Swift" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
@@ -26,18 +27,18 @@ Here are some technologies I have worked with...
 <img align="left" alt="JetBrains" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" alt="Jira" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img align="left" alt="MatLab" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Ubuntu" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<br/>
+<img align="left" alt="Ubuntu" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />  
 
----
+---   
 
 ### Personal Projects 💻
+
 I am constantly working on personal projects with everything from creating neural networks to building electric bikes. So, I set up a website to show off all of my projects, give links to my code, and to help people learn. Click these links to check out some of my top projects:
 
-[Building a Neural Network to Play Snake](https://github.com/blakebollinger/SnakeAI-Swift) (Apple Awarded)
-[Making a Lightning-Fast Electric Bike](https://blakebollinger.dev/2020/03/25/making-a-lightning-fast-electric-bike/)
-[Training Neural Networks with Genetic Algorithms In Swift](https://github.com/blakebollinger/Neural-Jump)
-Also feel free to check out my resumé by clicking below.
+- [Building a Neural Network to Play Snake](https://github.com/blakebollinger/SnakeAI-Swift) (Apple Awarded)
+- [Making a Lightning-Fast Electric Bike](https://blakebollinger.dev/2020/03/25making-a-lightning-fast-electric-bike/)
+- [Training Neural Networks with Genetic Algorithms In Swift](https://github.com/blakebollinger/Neural-Jump)
+- Also feel free to check out my resumé by clicking below.
 
 [My Resume](https://blakebollinger.dev/wp-content/uploads/2022/10/Blake-Bollinger-Resume.pdf)
 
