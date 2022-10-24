@@ -29,7 +29,7 @@ Here are some technologies I have worked with...
 <img align="left" alt="MatLab" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Ubuntu" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />  
 
----   
+---  
 
 ### Personal Projects 💻
 
