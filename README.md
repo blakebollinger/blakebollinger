@@ -37,7 +37,7 @@ Here are some technologies I have worked with...
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakebollinger&layout=compact&exclude_repo=SnakeAI-Swift&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blakebollinger&layout=compact&exclude_repo=SnakeAI-Swift,Compare-Activation-Functions&langs_count=8)
 
 ---  
 
