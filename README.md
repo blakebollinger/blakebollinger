@@ -5,7 +5,7 @@
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-My name is Blake Bollinger, and I am a Computer Science and Mathematics Dual Major at Louisiana State University. I taught myself to program in Swift at the age of 13, and ever since then, I have had a fascination with computers and what makes them tick.
+My name is Blake Bollinger, and I am currently a Software Engineer at SpaceX working on Starlink Direct to Cell. In May 2024, I graduated as a Computer Science and Mathematics dual major from Louisiana State University. I taught myself to program in Swift at the age of 13, and ever since then, I have had a fascination with computers and what makes them tick.
 
 ---
 
@@ -24,7 +24,7 @@ Here are some technologies I have worked with...
 <img align="left" alt="React" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br />
 <br />
-<img align="left" alt="AWS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="AWS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Debian" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
@@ -50,7 +50,5 @@ I am constantly working on personal projects with everything from creating neura
 - [Training Neural Networks with Genetic Algorithms In Swift](https://github.com/blakebollinger/Neural-Jump)
 - Also feel free to check out my resumé by clicking below.
 
-[My Resume](https://blakebollinger.dev/wp-content/uploads/2022/10/Blake-Bollinger-Resume.pdf)
+[My Resume](https://www.blakebollinger.dev/wp-content/uploads/2025/02/Blake-Bollinger-Resume.pdf)
 
-
-🏄‍♂️
